@@ -128,6 +128,5 @@ The following dynamic placeholder can be used within the source and replacement 
 CORSflare is strongly based upon the following projects:
 * [worker-proxy](https://github.com/Berkeley-Reject/workers-proxy/) by [Berkeley-Reject](https://github.com/Berkeley-Reject) (MIT License)
 * [cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) by [Zibri](https://github.com/Zibri) (MIT License)
-#   c o r s f l a r e 
- 
- 
+
+
